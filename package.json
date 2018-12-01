@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "sass practice",
+  "main": "index.js",
+  "scripts": {
+    "css-watch": "sass --watch sass/main.scss:public/css/style.css"
+  },
+  "author": "Jonathan Xu",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
